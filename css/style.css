@@ -1,0 +1,49 @@
+body{
+    background-image: url("https://media.istockphoto.com/photos/numbers-background-on-a-light-bg-3d-rendering-picture-id1282458414?b=1&k=20&m=1282458414&s=170667a&w=0&h=CzZDelbyo9_RI0jOayGsh0881uLS8NtYulAuQk1YuCg=");
+    /* background-size: cover; */
+    text-align: center;
+    font-family:Impact;
+    
+}
+td{
+    font-family:cursive;
+    font-style:italic;
+    border-radius: 10px;
+    border:paleturquoise;
+    background-color: rgb(255, 255, 255)
+}
+
+.timer{
+    font-size: larger;
+font-family:monospace;
+}
+
+table{
+    border-color: rgb(173, 224, 245);
+    margin: auto;
+}
+
+button{
+    background-color: rgb(255, 255, 255);
+    border-style:hidden;
+    padding: 7px;
+    border-radius: 10px;
+    font-size: larger;
+    margin-bottom: 20px;
+}
+
+.num:hover{
+    background-color: rgb(164, 216, 250);
+}
+
+.button:hover{
+    background-color: lightskyblue;
+}
+.btn:hover{
+    background-color: rgb(220, 233, 241);
+}
+.btn{
+    margin-top: 15px;
+    font-family:cursive;
+    
+}
